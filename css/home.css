@@ -17,6 +17,7 @@ body, button{
   padding: 2%;
   background: #333;
   color: #eee;
+  margin-top: 60px;
 }
 
 label{
